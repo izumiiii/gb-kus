@@ -1,0 +1,6 @@
+namePrefix: staging-
+commonLabels:
+  variant: staging
+resources:
+- ../../base
+patchesStrategicMerge:
