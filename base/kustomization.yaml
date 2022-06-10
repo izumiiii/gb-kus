@@ -8,6 +8,7 @@ commonLabels:
 
 resources:
 - frontend-deployment.yaml
+- frontend-service.yaml
 - redis-master-deployment.yaml
 - redis-master-service.yaml
 - redis-slave-deployment.yaml
